@@ -21,6 +21,7 @@ Instead of visiting multiple websites for different tasks, users can access a wi
 | Feature | Details |
 |---|---|
 | Project Name | HashForge |
+| Project Type | Personal Project |
 | Total Tools | 348 |
 | Categories | 14 |
 | Processing | 100% Client-Side |
@@ -80,11 +81,11 @@ Currently demonstrated interface views:
 
 ### Arabic Interface
 
-The application dashboard with Arabic interface, category navigation, and developer utilities.
+![HashForge Arabic Interface](screenshots/arabic-interface.png)
 
 ### Simplified Chinese Interface
 
-The application dashboard with Simplified Chinese interface and organized tool categories.
+![HashForge Chinese Interface](screenshots/chinese-interface.png)
 
 ---
 
@@ -99,30 +100,6 @@ The application dashboard with Simplified Chinese interface and organized tool c
 
 ---
 
-## 🛠️ Technologies
-
-The project is a web-based developer toolbox.
-
-**Note:** Add the exact technologies and libraries used in your implementation here.
-
-Potential documentation sections:
-
-- HTML5
-- CSS3
-- JavaScript
-- Responsive Web Design
-- Browser APIs
-
----
-
-## 🌐 Live Application
-
-Explore HashForge:
-
-**https://hash4orge.netlify.app/**
-
----
-
 ## 🔮 Future Improvements
 
 - Expand the collection of developer utilities.
@@ -133,11 +110,21 @@ Explore HashForge:
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Developer
 
 **Hamza Riaz**
 
-Web Development | Cybersecurity | Developer Tools
+**Project Type:** Personal Project
+
+**LinkedIn:** https://lnkd.in/p/drCEpdTe
+
+---
+
+## 🌐 Live Application
+
+Explore HashForge:
+
+**https://hash4orge.netlify.app/**
 
 ---
 
